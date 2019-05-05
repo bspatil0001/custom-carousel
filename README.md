@@ -1,4 +1,16 @@
 # carousel
+It data as fallows,
+
+new Carousel({
+  domId: "dom-id",
+  data: items,
+  navigator: false,
+  autoMovement: {
+   status: true,
+   time: 5000
+  }
+ });
+
 
 ## Project setup
 ```
